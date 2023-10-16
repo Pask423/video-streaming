@@ -31,7 +31,7 @@ object Streamer {
     val end = fileSize - 1
 
     val headers = List(
-      RawHeader("Content-Range", s"bytes ${start}-${end}/${fileSize}"),
+      RawHeader("Content-Range", s"bytes $start-$end/$fileSize"),
       RawHeader("Accept-Ranges", s"bytes")
     )
 

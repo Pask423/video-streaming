@@ -1,3 +1,11 @@
+### Info 
+
+Example of video streaming service with Akka Streams
+
+Full article is available on:
+1. [Dzone](https://dzone.com/articles/hello-world-in-akka)
+2. [Medium](https://medium.com/@PaskSoftware/video-streaming-with-akka-streams-15b29c72a5bf)
+
 ### **Running locally**
 
 Before starting doing any changes I recommend to import project into IDE and then perform any changes from there.
